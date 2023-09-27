@@ -5,7 +5,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo "Fetching the source code from the directory path specified by the environment variable."
-                echo "compiled code"
+                echo "compiled code "
             }
         }
 
